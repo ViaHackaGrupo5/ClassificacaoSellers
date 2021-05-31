@@ -8,7 +8,7 @@ video pitch:
 https://youtu.be/uCQzDjQsWu4
 
 video demo:
-
+https://youtu.be/DLtA23c00Q0
 
 painel powerBi:
 
