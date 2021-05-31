@@ -8,9 +8,12 @@ video pitch:
 https://youtu.be/uCQzDjQsWu4
 
 video demo:
+
 https://youtu.be/DLtA23c00Q0
 
 painel powerBi:
+
+https://github.com/ViaHackaGrupo5/ClassificacaoSellers/blob/main/Painel%20Lojista.pbix
 
 documentacoes
 documentacoes> projeto>
